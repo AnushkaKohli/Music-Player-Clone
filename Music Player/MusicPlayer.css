@@ -1,0 +1,144 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #323232;
+    background: url('https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjQ4NS1udW5vb24tMjgtbXVzaWNub3Rlc2JhY2tncm91bmRpY29uXzEuanBn.jpg?s=Aru3XTpPSLJr3H36La0hs5jng4no49bk4xQ156lQdQU');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    height: 65px;
+}
+.left{
+    display: inline-block;
+    /* border: 2px solid white; */
+    position: absolute;
+    left: 5px;
+    top: 10px;
+}
+.left img{
+    width: 55px;
+}
+#music{
+    position: absolute;
+    top: 10px;
+    left: 62px;
+    font-family: 'Berkshire Swash', cursive;
+    font-weight: bolder;
+}
+#search{
+    background-color: white;
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 150px;
+    height: 23px;
+    width: 250px;
+}
+
+.mid{
+    width: 43%;
+    display: block;
+    box-sizing: border-box;
+    margin: 0px 535px;
+    padding: 10px;
+}
+.mid input{
+    height: 27px;
+    width: 240px;
+}
+.option{
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+}
+#menu{
+    font-size: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.option a:hover{
+    text-decoration: underline;
+    color: #6d6767;
+    /* font-size: 22px; */
+}
+
+.right{
+    display: inline-block;
+    /* border: 2px solid white; */
+    position: absolute;
+    right: 5px;
+    top: 10px;
+}
+.btn{
+    margin: 3px 5px;
+    background-color: black;
+    color: white;
+    padding: 10px 18px;
+    border: 2px solid white;
+    border-radius: 20px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #3f3f3f;
+    font-size:17px;
+}
+
+.container{
+    /* border: 2px solid white; */
+    margin: 132px 547px;
+    padding: 30px 30px;
+    width: 600px;
+    border-radius: 5px;
+}
+
+.form input{
+    border: 2px solid white;
+    border-radius: 3px;
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+    padding: 8px 22px;
+    width: 306px;
+    font-size: 18px;
+}
+.form1 {
+    color: white;
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    padding: 17px 19px;
+    width: 485px;
+    font-size: 21px;
+}
+#ad{
+    color: white;
+    display: block;
+    text-align: center;
+    font-family: 'Tiro Gurmukhi', serif;
+    width: 411px;
+    margin: 24px auto;
+    padding: 30px 15px;
+    line-height: 38px;
+}
+.btn1{
+    width: 186px;
+    margin: 18px 56px;
+    background-color: black;
+    color: white;
+    padding: 10px 18px;
+    border: 2px solid white;
+    border-radius: 20px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.btn1:hover{
+    background-color: #767676;
+    
+}
